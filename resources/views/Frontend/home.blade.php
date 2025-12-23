@@ -62,11 +62,9 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                
                                 style="z-index: 1;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 0);border-width:0px;"> 
                                 </div>
                                
-       
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" 
                                 id="slide-903-layer-3" 
