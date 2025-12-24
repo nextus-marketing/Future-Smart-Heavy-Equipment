@@ -18,7 +18,7 @@
                             data-easein="default" 
                             data-easeout="default" 
                             data-masterspeed="default"  
-                            data-thumb="/frontend/images/main-slider/slider4/slide1.jpg"  
+                            data-thumb="/frontend/my-img/slider-3.webp"  
                             data-rotate="0"  
                             data-fstransition="fade" 
                             data-fsmasterspeed="300" 
@@ -37,7 +37,7 @@
                             data-param10="" 
                             data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="/frontend/my-img/slider-3.jpg"  alt=""  data-lazyload="/frontend/my-img/slider-3.jpg" data-bgposition="center center" 
+                                <img src="/frontend/my-img/slider-3.webp"  alt=""  data-lazyload="/frontend/my-img/slider-3.webp" data-bgposition="center center" 
                                 data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 
@@ -92,37 +92,10 @@
                                 white-space: normal; 
                                 font-weight: 500;
                                 color:#fff;
-                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Doing it right , Costs less in the.</div>
+                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Strength in motion,
+                                Equipment you can trust.</div>
                             
                                 <!-- LAYER NR. 4 [ for paragraph] -->
-                                <div class="tp-caption  tp-resizeme" 
-                                id="slide-903-layer-4" 
-                                data-x="['left','left','center','center']" data-hoffset="['100','100','0','0']" 
-                                data-y="['middle','middle','middle','middle']" data-voffset="['100','80','20','-40']"  
-                                data-fontsize="['20','20','20','16']"
-                                data-lineheight="['30','30','30','22']"
-                                data-width="['600','600','90%','90%']"
-                                data-height="['none','none','none','none']"
-                                data-whitespace="['normal','normal','normal','normal']"
-                            
-                                data-type="text" 
-                                data-responsive_offset="on"
-                                data-frames='[
-                                {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
-                                ]'
-                                data-textAlign="['left','left','center','center']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                            
-                                style="z-index: 13; 
-                                font-weight: 500; 
-                                color:#fff;
-                                border-width:0px;font-family: 'Poppins', sans-serif;">
-                                In the world of renewable energy we cast quite a shadow. innovative products and services...
-                                </div>
                             
                                 <!-- LAYER NR. 5 [ for see all service botton ] -->
                                 <div class="tp-caption tp-resizeme" 	
@@ -147,7 +120,7 @@
                                 data-paddingleft="[0,0,0,0]"
                                 
                                 style="z-index:13; text-transform:uppercase;">
-                                <a href="#0" class="site-button site-btn-effect">Book Now</a>
+                                <a href="#0" class="site-button site-btn-effect">Call Now</a>
                                 </div>
                             </li>                                                        
                              
@@ -158,6 +131,64 @@
          
             </div>
             <!-- SLIDER END -->
+
+            <div class="section-full bg-gray p-t90 p-b50">
+    <div class="container">
+        <div class="section-content client-logo2">
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media active">
+                        <img src="/frontend/my-img/items/boom-loader.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Boom Loader</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/backhoe-loaders.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Backhoe Loader</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/dozers.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Dozers</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/excavators.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;">
+                        <span>Excavators</span> 
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/wheel-loaders.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Wheel Loader</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/skid-steers.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Skid Steers</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/forklifts.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Forklifts</span>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6">
+                    <a href="#0" class="wt-img-effect client-logo2-media">
+                        <img src="/frontend/my-img/items/compactors.webp" alt="" style="width:115px; height:95px; display:block; margin-bottom:5px;"> 
+                        <span>Compactors</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>  
+</div>
+
                              
             <!-- WHAT WE DO SECTION START -->
             <div class="section-full p-t80 p-b50 bg-gray what-we-do-section2">
@@ -188,22 +219,33 @@
                                             <div>What We do</div>
                                             <div  class="sep-leaf-right"></div>
                                         </div>
-                                        <h2>Providing Full Range of High Services Solution Worldwide</h2>
-                                        <p>Progressively maintain extensive infomediaries via extensible niches. Capitalize on low hanging fruit to identify a ballpark value added is activity to beta test. Override the igital divide</p>
+                                        <h2>Providing a Full Range of Heavy Equipment Solutions Worldwide</h2>
+                                        <p>We specialize in sourcing, trading, and supplying reliable heavy machinery for construction, infrastructure, mining, and industrial projects. Our focus is on quality equipment, transparent processes, and efficient delivery to meet project demands across global markets.</p>
                                         
                                     </div>
                                     <!-- TITLE END-->
                                     <div class="wt-icon-card-outer">
-                                    <div class="wt-icon-card bg-white shadow">
-                                    	<div class="wt-card-header"><i class="fa fa-plane site-text-primary"></i><span class="title-style-2 site-text-secondry">Air Freight</span></div>
-                                        <div class="wt-card-content"><p>We can arrange and provides with the comprehensive service in the sphere.</p></div>
-                                    </div>
-                                    
-                                    <div class="wt-icon-card bg-white shadow">
-                                    	<div class="wt-card-header"><i class="fa fa-ship site-text-primary"></i><span class="title-style-2 site-text-secondry">Ocean Freight</span></div>
-                                        <div class="wt-card-content"><p>We provides with the main types of basic conditions International sea Fright.</p></div>
-                                    </div>
-                                    </div>
+  <div class="wt-icon-card bg-white shadow">
+    <div class="wt-card-header">
+      <i class="fa fa-cogs site-text-primary"></i>
+      <span class="title-style-2 site-text-secondry">Equipment Sourcing</span>
+    </div>
+    <div class="wt-card-content">
+      <p>We source quality heavy machinery that meets performance and budget requirements.</p>
+    </div>
+  </div>
+
+  <div class="wt-icon-card bg-white shadow">
+    <div class="wt-card-header">
+      <i class="fa fa-globe site-text-primary"></i>
+      <span class="title-style-2 site-text-secondry">Worldwide Trading</span>
+    </div>
+    <div class="wt-card-content">
+      <p>Supporting global buyers and sellers with reliable heavy equipment trading services.</p>
+    </div>
+  </div>
+</div>
+
                                                                         
                                 </div>                        
                             </div> 
@@ -212,9 +254,6 @@
                         </div>
                     </div>                                        
 				</div>
-                <div class="hilite-large-title title-style-2">
-                	<span>What we do</span>
-                </div>
                 
             </div>   
             <!-- WHAT WE DO SECTION END -->   
@@ -233,10 +272,8 @@
                                         <div>Services We Offer</div>
                                         <div  class="sep-leaf-right"></div>
                                     </div>
-                                    <h2>We Manage Lead Logistics For World’s Multinational Companies.</h2>
-                                    <p>Progressively maintain extensive infomediaries via extensible niches.
-                                         Capitalize on low hanging fruit to identify a ballpark value added is activity to beta test.
-                                         Override the igital divide with additional click throughs from fruit to identify a ballpark value added.
+                                    <h2>End-to-End Heavy Equipment Trading Services</h2>
+                                    <p>We manage the complete equipment trading process, ensuring reliable machines, competitive pricing, and smooth global transactions for demanding industrial projects.
                                     </p>
                                     <a href="#0" class="site-button site-btn-effect">Contact Us</a>
                                 </div>
@@ -251,10 +288,10 @@
                                     <div class="item">
                                         <div class="wt-box bg-gray  p-a10 project-2-block">
                                             <div class="wt-thum-bx">
-                                                <img src="/frontend/images/services_2/1.jpg" alt="">
+                                                <img src="/frontend/my-img/offer/1.jpg" alt="" style="width:298px; height:358px;">
                                             </div>
                                             <div class="wt-info">
-                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Warehousing</a></h4>
+                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Crawler Excavator</a></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -262,10 +299,10 @@
                                     <div class="item">
                                         <div class="wt-box bg-gray  p-a10 project-2-block">
                                             <div class="wt-thum-bx">
-                                                <img src="/frontend/images/services_2/2.jpg" alt="">
+                                                <img src="/frontend/my-img/offer/2.jpg" alt="" style="width:298px; height:358px;">
                                             </div>
                                             <div class="wt-info">
-                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Air Freight</a></h4>
+                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Backhoe Loader</a></h4>
                                             </div>
                                         </div>
                                     </div>                                    
@@ -273,10 +310,10 @@
                                     <div class="item">
                                         <div class="wt-box bg-gray  p-a10 project-2-block">
                                             <div class="wt-thum-bx">
-                                                <img src="/frontend/images/services_2/3.jpg" alt="">
+                                                <img src="/frontend/my-img/offer/3.jpg" alt="" style="width:298px; height:358px;">
                                             </div>
                                             <div class="wt-info">
-                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Ocean Freight</a></h4>
+                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Reach Stacker</a></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -284,21 +321,10 @@
                                     <div class="item">
                                         <div class="wt-box bg-gray  p-a10 project-2-block">
                                             <div class="wt-thum-bx">
-                                                <img src="/frontend/images/services_2/4.jpg" alt="">
+                                                <img src="/frontend/my-img/offer/5.jpg" alt="" style="width:298px; height:358px;">
                                             </div>
                                             <div class="wt-info">
-                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Road Freight</a></h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="wt-box bg-gray  p-a10 project-2-block">
-                                            <div class="wt-thum-bx">
-                                                <img src="/frontend/images/services_2/5.jpg" alt="">
-                                            </div>
-                                            <div class="wt-info">
-                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Insurance</a></h4>
+                                                <h4 class="wt-title m-b0 m-t15"><a href="#0">Wheel Loader</a></h4>
                                             </div>
                                         </div>
                                     </div>                                    
@@ -336,28 +362,28 @@
                                         <div class="col-lg-3 col-md-6 m-b30 ">
                                             <div class="wt-icon-box-wraper center">
                                                 <h2 class="counter site-text-primary">35</h2>
-                                                <span class="site-text-white title-style-2">Projects Completed</span>
+                                                <span class="site-text-white title-style-2">Infrastructure Projects</span>
                                             </div>
                                         </div>
                                         
                                         <div class="col-lg-3 col-md-6 m-b30">
                                             <div class="wt-icon-box-wraper center">
                                                 <h2 class="counter site-text-primary">1435</h2>
-                                                <span class="site-text-white title-style-2">Work Employed</span>
+                                                <span class="site-text-white title-style-2">Workforce Strength</span>
                                             </div>
                                         </div>
                                         
                                         <div class="col-lg-3 col-md-6 m-b30">
                                             <div class="wt-icon-box-wraper center">
                                                 <h2 class="counter site-text-primary" >750</h2>
-                                                <span class="site-text-white title-style-2">Work facilities</span>
+                                                <span class="site-text-white title-style-2">Machines & Facilities</span>
                                             </div>
                                         </div>
                                         
                                         <div class="col-lg-3 col-md-6 m-b30">
                                             <div class="wt-icon-box-wraper center">
                                                 <h2 class="counter site-text-primary" >26</h2>
-                                                <span class="site-text-white title-style-2">Winning Awards</span>
+                                                <span class="site-text-white title-style-2">Industry Awards</span>
                                             </div>
                                         </div>                                        
 
@@ -387,23 +413,7 @@
                                 <h2>Serving Impressive List Of Long Term Clients!</h2>
                                 <p>Our worldwide presence ensures timeliness, cost efficiency and compliance adherence required to ensure your timelines are met. Serving with experience aNd expertise in multiple industries, as one of the World's leading Corporation! .</p>
                             </div>
-                            <!-- TITLE END-->
-                            <div class="video-3-section-outer-bottom">
-                                <div class="video-section2-outer mfp-gallery">
-                                    <div class="video-section">
-                                         <a href="https://www.youtube.com/watch?v=fgExvIUYg5w" class="mfp-video play-now">
-                                            <i class="icon fa fa-play"></i>
-                                            <span class="ripple"></span>
-                                        </a>                                              
-                                    </div>	    
-                                </div>      
-                            
-                                <div class="video3-section-blockquote">
-                                    <i class="fa fa-quote-left"></i>
-                                    <span class="q-author-detail site-text-secondry title-style-2">Many of Our SELF registered employees are requested an main preferred temporary staff when all service</span>
-                                    <div class="q-author-name site-text-primary title-style-2">Farnandoz Biki, CEO</div>
-                                </div>
-                            </div>                                                                                  
+                            <!-- TITLE END-->                                                                               
                         </div>
                         <div class="col-lg-6 col-md-12 m-b30">
                         
@@ -505,6 +515,28 @@
                                         </div>
                                     </div>
                                     
+                                   <div class="item">
+                                        <div class="testimonial-1 bg-white">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-pic-block"> 
+                                                    <div class="testimonial-pic">
+                                                        <img src="/frontend/images/testimonials/pic1.jpg" alt="">
+                                                    </div>
+                                                </div>                                            
+                                                <div class="testimonial-text">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <p>Future Smart Heavy Equipment Trading provided us with high-quality excavators on time. Their service and support were excellent throughout the process.</p>
+                                                </div>
+                                                <div class="testimonial-detail clearfix">
+                                                    <div class="testimonial-info">
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Ahmed Al Mansoori</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Construction Manager</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                     <div class="item">
                                         <div class="testimonial-1 bg-white">
                                             <div class="testimonial-content">
@@ -515,18 +547,18 @@
                                                 </div>                                            
                                                 <div class="testimonial-text">
                                                     <i class="fa fa-quote-left"></i>
-                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
+                                                    <p>We sourced a fleet of road rollers and bulldozers from them. The machines were in excellent condition and helped us complete our project ahead of schedule.</p>
                                                 </div>
                                                 <div class="testimonial-detail clearfix">
                                                     <div class="testimonial-info">
-                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Fatima Al Zahri</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Project Engineer</span>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     <div class="item">
                                         <div class="testimonial-1 bg-white">
                                             <div class="testimonial-content">
@@ -537,17 +569,18 @@
                                                 </div>                                            
                                                 <div class="testimonial-text">
                                                     <i class="fa fa-quote-left"></i>
-                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
+                                                    <p>Their team guided us in choosing the right heavy machinery for our mining project. Excellent consultation, quick response, and reliable delivery.</p>
                                                 </div>
                                                 <div class="testimonial-detail clearfix">
                                                     <div class="testimonial-info">
-                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Mohammed Al Qasimi</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Operations Director</span>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>                                                                        
+                                    </div>
+                                                                      
                                 </div>
                             </div>                     
                         </div>
@@ -559,213 +592,111 @@
             </div>
             <!-- TESTIMONIAL SECTION END -->   
             
-            <!-- OUR TEAM START -->
-            <div class="section-full p-t80 p-b50 bg-white team-bg-section-outer">
-            	<div class="team-bg-map site-bg-secondry bg-repeat-x" style="background-image:url(/frontend/images/background/bg-map2.png)"></div>
-                <div class="container">
-                    <div class="section-content">
-                    
-                    <!-- TITLE START-->
-                    <div class="section-head center wt-small-separator-outer text-center">
+    <div class="section-full p-t80 p-b50 bg-white">
+    <div class="container">
+        <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div  class="sep-leaf-left"></div>
-                            <div>Our Experts</div>
+                            <div>Top Equipment for Sale</div>
                             <div  class="sep-leaf-right"></div>
                         </div>
-                        <h2>We will serve you with the best of our capacity by expert team</h2>
+                        <h2>Premium heavy equipment for sale</h2>
                     </div>
-                    <!-- TITLE END-->
-                               
-                    <div class="section-content">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="wt-team-1">
-                                    
-                                    <div class="wt-media">
-                                        <img src="/frontend/images/team/pic1.jpg" alt="">
-                                        <div class="team-social-center">
-                                            <ul class="team-social-bar">
-                                                <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                            
-                                        </div>                                              
-                                    </div>                                   
 
-                                    <div class="wt-info p-a30  p-b0">
-                                        <div class="team-detail  text-center">
-                                            <h3 class="m-t0 team-name"><a href="#0" class=" site-text-white">Malcolm Franzcrip</a></h3>
-                                            <span class="title-style-2 team-position site-text-primary">Contractor</span>
-                                        </div>
-                                    </div>
-                            
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="wt-team-1">
-                                    
-                                    <div class="wt-media">
-                                        <img src="/frontend/images/team/pic2.jpg" alt="">
-                                        <div class="team-social-center">
-                                            <ul class="team-social-bar">
-                                                <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                            
-                                        </div>
-                                    </div>                                   
+        <!-- GALLERY CONTENT START -->
+        <div class="masonry-wrap mfp-gallery row clearfix d-flex justify-content-center flex-wrap">
 
-                                    <div class="wt-info p-a30  p-b0">
-                                        <div class="team-detail  text-center">
-                                            <h3 class="m-t0 team-name"><a href="#0" class=" site-text-white">Froster Collings</a></h3>
-                                            <span class="title-style-2 team-position site-text-primary">Contractor</span>
-                                        </div>
-                                    </div>
-                            
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="wt-team-1">
-                                    
-                                    <div class="wt-media">
-                                        <img src="/frontend/images/team/pic3.jpg" alt="">
-                                        <div class="team-social-center">
-                                            <ul class="team-social-bar">
-                                                <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                            
-                                        </div>
-                                    </div>                                   
+            <!-- ITEM 1 -->
+            <div class="masonry-item cat-1 col-lg-4 col-md-6 col-sm-6 m-b30">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/3.webp"
+                         alt="Backhoe Loader"
+                         style="width:350px; height:263px; object-fit:cover;" />
 
-                                    <div class="wt-info p-a30 p-b0">
-                                        <div class="team-detail  text-center">
-                                            <h3 class="m-t0 team-name"><a href="#0" class=" site-text-white">Melena Marshall</a></h3>
-                                            <span class="title-style-2 team-position site-text-primary">Contractor</span>
-                                        </div>
-                                    </div>
-                            
-                                </div>
-                            </div>                                                        
-                            
-                        </div>
-                    </div>      
-                        
-                    </div>
-                </div>
-            </div>   
-            <!-- OUR TEAM SECTION END --> 
-            
-            <!-- OUR BLOG START -->
-            <div class="section-full  p-t80  bg-white blog-post-outer-3 ">
-				<div class="container">
-                
-                	<div class="wt-separator-two-part">
-                    	<div class="row wt-separator-two-part-row">
-                        	<div class="col-lg-8 col-md-7 wt-separator-two-part-left">
-                                <!-- TITLE START-->
-                                <div class="section-head left wt-small-separator-outer">
-                                    <div class="wt-small-separator site-text-primary">
-                                        <div  class="sep-leaf-left"></div>
-                                        <div>Latest Articles Updated Daily</div>
-                                        <div  class="sep-leaf-right"></div>
-                                    </div>
-                                    <h2>We Are Here To Learn You More From Blog</h2>
-                                </div>
-                                <!-- TITLE END-->
-                            </div>
-                            <div class="col-lg-4 col-md-5 wt-separator-two-part-right text-right">
-                            	<a href="#0" class="site-button site-btn-effect">More Detail</a>
-                            </div>
-                    	</div>
-                    </div>
-     
-                    <!-- BLOG SECTION START -->
-                    <div class="section-content">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <!--Block one-->
-                                <div class="blog-post date-style-2">
-                                    <div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="javascript:;"><img src="/frontend/images/blog/default_3/thum1.jpg" alt=""></a>
-                                    </div>
-                                    <div class="wt-post-info bg-white p-t30">
-                                        <div class="wt-post-meta ">
-                                            <ul>
-                                                <li class="post-date">February 28, 2020</li>
-                                                <li class="post-comment">24 Comment</li>
-                                            </ul>
-                                        </div>                                 
-                                        <div class="wt-post-title ">
-                                            <h3 class="post-title">Exporters Achieve Cost Savings Throughout </h3>
-                                        </div>
-                                        <div class="wt-post-readmore ">
-                                            <a href="#0" class="site-button-link black">Read More</a>
-                                        </div>                                        
-                                   </div>                                
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <!--Block two-->
-                                <div class="blog-post date-style-2">
-                                    <div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="javascript:;"><img src="/frontend/images/blog/default_3/thum2.jpg" alt=""></a>
-                                    </div>
-                                    <div class="wt-post-info bg-white p-t30">
-                                        <div class="wt-post-meta ">
-                                            <ul>
-                                                <li class="post-date">February 28, 2020</li>
-                                                <li class="post-comment">24 Comment</li>                                      
-                                            </ul>
-                                        </div>                                  
-                                        <div class="wt-post-title ">
-                                            <h3 class="post-title">Deliveright Logistics Expands Service to West</h3>
-                                        </div>
-                                        <div class="wt-post-readmore ">
-                                            <a href="#0" class="site-button-link black">Read More</a>
-                                        </div>                                        
-                                    </div>                                
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <!--Block three-->
-                                <div class="blog-post date-style-2">
-                                    <div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="javascript:;"><img src="/frontend/images/blog/default_3/thum3.jpg" alt=""></a>
-                                    </div>
-                                    <div class="wt-post-info bg-white p-t30">
-                                        <div class="wt-post-meta ">
-                                            <ul>
-                                                <li class="post-date">February 28, 2020</li>
-                                                <li class="post-comment">24 Comment</li>
-                                            </ul>
-                                        </div>                                  
-                                        <div class="wt-post-title ">
-                                            <h3 class="post-title">Software May Be Best Bet to Conquer Final Mile</h3>
-                                        </div>
-                                        <div class="wt-post-readmore ">
-                                            <a href="#0" class="site-button-link black">Read More</a>
-                                        </div>
-                                    </div>                                
-                                </div> 
-                            </div>                                                        
-                                                        
+                    <div class="wt-info">
+                        <h3 class="wt-title m-b10 m-t0">Backhoe Loader</h3>
+                        <div class="machine-meta">
+                            <span>
+                                <i class="fa fa-tint"></i> Diesel
+                            </span>
+                            <span>
+                                <i class="fa fa-dashboard"></i> 25,550
+                            </span>
+                            <span>
+                                <i class="fa fa-calendar"></i> 2023
+                            </span>
                         </div>
                     </div>
+
+                    <a href="/frontend/my-img/3.webp" class="mfp-link">
+                        <i class="fa fa-search-plus"></i>
+                    </a>
                 </div>
-                
-             </div>   
-            <!-- OUR BLOG END -->
+            </div>
+
+            <!-- ITEM 2 -->
+            <div class="masonry-item cat-2 col-lg-4 col-md-6 col-sm-6 m-b30">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/7.jpg"
+                         alt="Crawler Excavator"
+                         style="width:350px; height:263px; object-fit:cover;" />
+
+                    <div class="wt-info">
+                        <h3 class="wt-title m-b10 m-t0">Crawler Excavator</h3>
+                        <div class="machine-meta">
+                            <span>
+                                <i class="fa fa-tint"></i> Diesel
+                            </span>
+                            <span>
+                                <i class="fa fa-dashboard"></i> 25,550
+                            </span>
+                            <span>
+                                <i class="fa fa-calendar"></i> 2023
+                            </span>
+                        </div>
+                    </div>
+
+                    <a href="/frontend/my-img/7.jpg" class="mfp-link">
+                        <i class="fa fa-search-plus"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- ITEM 3 -->
+            <div class="masonry-item cat-3 col-lg-4 col-md-6 col-sm-6 m-b30">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/1.jpg"
+                         alt="Road Roller"
+                         style="width:350px; height:263px; object-fit:cover;" />
+
+                    <div class="wt-info">
+                        <h3 class="wt-title m-b10 m-t0">Road Roller</h3>
+
+                        <div class="machine-meta">
+                            <span>
+                                <i class="fa fa-tint"></i> Diesel
+                            </span>
+                            <span>
+                                <i class="fa fa-dashboard"></i> 25,550
+                            </span>
+                            <span>
+                                <i class="fa fa-calendar"></i> 2023
+                            </span>
+                        </div>
+                    </div>
+
+                    <a href="/frontend/my-img/1.jpg" class="mfp-link">
+                        <i class="fa fa-search-plus"></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+        <!-- GALLERY CONTENT END -->
+
+    </div>
+</div>
+
             
             <!-- GALLERY SECTION START -->
             <div class="section-full p-t80 p-b80 overlay-wraper  bg-cover" style="background-image:url(/frontend/images/background/bg-11.jpg)">
@@ -793,9 +724,7 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte m-b10 m-t0">Distribution</h3>
                                     <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
                                 </div>
-                               <a href="/frontend/images/project_2/pic1.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div>
                         
@@ -805,9 +734,8 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte m-b10 m-t0">Warehousing</h3>
                                     <p>Committed to delivering high quality projects and innovate business.</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
+                                    
                                 </div>
-                               <a href="/frontend/images/project_2/pic2.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div> 
                         
@@ -817,9 +745,8 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte  m-b10 m-t0">Optimization</h3>
                                     <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
+                                    
                                 </div>
-                               <a href="/frontend/images/project_2/pic3.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div>
                         
@@ -829,9 +756,8 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte  m-b10 m-t0">Logistics</h3>
                                     <p>Committed to delivering high quality projects and innovate business.</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
+                                    
                                 </div>
-                               <a href="/frontend/images/project_2/pic4.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div> 
                         
@@ -841,9 +767,8 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte  m-b10 m-t0">Analystics</h3>
                                     <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
+                                    
                                 </div>
-                               <a href="/frontend/images/project_2/pic5.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div>
                         
@@ -853,9 +778,8 @@
                                 <div class="wt-info">
                                     <h3 class="wt-tilte  m-b10 m-t0">Storage</h3>
                                     <p>Committed to delivering high quality projects and innovate business.</p>
-                                    <a href="#0" class="site-button-link">Read More</a>
+                                    
                                 </div>
-                               <a href="/frontend/images/project_2/pic6.jpg" class="mfp-link"><i class="fa fa-search-plus"></i></a>
                             </div>
                         </div>
                         
@@ -879,126 +803,126 @@
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w1.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/atlas.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w2.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/bobcat.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w3.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/caterpillar.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w4.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/demag.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w5.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/doosan.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w6.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/dynapac.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w1.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/generac.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w2.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/hyundai.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w3.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/jcb.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w4.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/jlg.png" alt="" style="width:158px !important; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w5.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/kato.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w6.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/komatsu.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>  
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w1.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/liebherr.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w2.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/mercedes.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w3.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/mitsubishi.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w4.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/perkins.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w5.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/sany.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>
                                     
                                     <div class="item">
                                         <div class="ow-client-logo">
                                             <div class="client-logo client-logo-media">
-                                            <a href="javascript:void(0);"><img src="/frontend/images/client-logo/w6.png" alt=""></a></div>
+                                            <a href="#0"><img src="/frontend/my-img/brands/toyota.png" alt="" style="width:158px; height:120px;"></a></div>
                                         </div>
                                     </div>                                                                      
                                     
@@ -1010,4 +934,6 @@
             </div>
             <!-- CLIENT LOGO  SECTION End -->                            
         </div>
+
+
 @endsection

@@ -2,3 +2,47 @@
 .tp-leftarrow.tparrows.hades {
     display: none !important;
 }
+
+.machine-meta {
+    display: flex;
+    gap: 18px;
+    /* space between points */
+    margin-top: 2px;
+}
+
+.machine-meta span {
+    font-size: 12px;
+    /* small font size */
+    color: #383737;
+    /* gray text */
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    /* space between icon & text */
+}
+
+.machine-meta span i {
+    font-size: 20px;
+    color: #9a9a9a;
+    /* gray icon */
+}
+
+.wt-bnr-inr {
+    height: 438px;
+    background-size: cover;
+    background-position: center center;
+    display: table;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .wt-bnr-inr {
+        height: 250px;
+    }
+}
+
+.service-box-content {
+    margin-bottom: 20px;
+    border-bottom: none;
+    padding-bottom: 20px;
+}

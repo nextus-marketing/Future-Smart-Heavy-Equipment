@@ -25,6 +25,7 @@
     <!-- FONTAWESOME STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="/frontend/css/fontawesome/css/font-awesome.min.css" />
 
+
     <!-- OWL CAROUSEL STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="/frontend/css/owl.carousel.min.css">
     <!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
@@ -60,6 +61,7 @@
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap" rel="stylesheet"> 
+    
 
 </head>
 
@@ -89,11 +91,11 @@
                                 </ul> 
                 
                                 <ul class="social-icons">
-                                    <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#0" class="fa fa-google"></a></li>
+                                    <li><a href="#0" class="fa fa-rss"></a></li>
+                                    <li><a href="#0" class="fa fa-facebook"></a></li>
+                                    <li><a href="#0" class="fa fa-twitter"></a></li>
+                                    <li><a href="#0" class="fa fa-linkedin"></a></li>
                                 </ul> 
                                                                           
                             </div>
@@ -125,7 +127,7 @@
                             <div class="extra-nav header-2-nav">
                                 <div class="extra-cell">
                                     <div class="header-search">
-                                        <a href="javascript:void(0);" class="header-search-icon"><i class="fa fa-phone"></i></a>
+                                        <a href="#0" class="header-search-icon"><i class="fa fa-phone"></i></a>
                                     </div>                                
                                     <div class="header-nav-request">
                                         <a href="#" class="contact-slide-show">Request a Quote <i class="fa fa-angle-right"></i></a>
@@ -140,11 +142,11 @@
                             <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
                         
                                 <ul class=" nav navbar-nav">
-                                    <li><a href="#0">Home</a></li>
-                                    <li><a href="#0">About</a></li>                                    
-                                    <li><a href="#0">Products</a></li>
-                                    <li><a href="#0">Blog</a></li>                                                                
-                                    <li><a href="#0">Contact Us</a></li>  
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/about">About Us</a></li>                                    
+                                    <li><a href="/products">Products</a></li>
+                                    <li><a href="/blogs">Blogs</a></li>                                                                
+                                    <li><a href="/contact">Contact Us</a></li>  
                                 </ul>
                             </div>
                         </div>    
@@ -183,11 +185,11 @@
                                     </ul>  
                                 </div>
                                 <ul class="social-icons  wt-social-links footer-social-icon">
-                                    <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    <li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
+                                    <li><a href="#0" class="fa fa-google"></a></li>
+                                    <li><a href="#0" class="fa fa-rss"></a></li>
+                                    <li><a href="#0" class="fa fa-facebook"></a></li>
+                                    <li><a href="#0" class="fa fa-twitter"></a></li>
+                                    <li><a href="#0" class="fa fa-linkedin"></a></li>
                                 </ul> 
                             </div>                              
                             
@@ -200,10 +202,10 @@
                                         <h3 class="widget-title">Useful links</h3>
                                         <ul>
                                             <li><a href="/">Home</a></li>
-                                            <li><a href="#0">About Us</a></li>
+                                            <li><a href="/about">About Us</a></li>
                                             <li><a href="#0">Products </a></li>
-                                            <li><a href="#0">Blogs</a></li>
-                                            <li><a href="#0">Contact Us </a></li>
+                                            <li><a href="/blogs">Blogs</a></li>
+                                            <li><a href="/contact">Contact Us </a></li>
                                         </ul>
                                     </div>
                             	</div>
@@ -222,20 +224,23 @@
                             	</div>                                
                             </div>
                         </div> 
-
+                    </br>
+                    </br>
                     </div>
                 </div>
             </div>
             <!-- FOOTER COPYRIGHT -->
-            
+
             <div class="footer-bottom">
               <div class="container">
                 <div class="wt-footer-bot-left d-flex justify-content-between">
                     <span class="copyrights-text">Copyright © 2025 <span class="site-text-primary">Future Smart Heavy Equipment Trading LLC</span></span>
                     <ul class="copyrights-nav"> 
-                        <li><a href="#0">Terms  &amp; Condition</a></li>
-                        <li><a href="#0">Privacy Policy</a></li>
-                    </ul>     
+                        <li><a href="/terms-and-conditions">Terms  &amp; Condition</a></li>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    </ul>    
+                     </br>
+                    </br>
                 </div>
               </div>   
             </div>   
@@ -351,30 +356,7 @@
  	</div> --}} 
 
 <!-- LOADING AREA START ===== -->
-<!-- <div class="loading-area">
-    <div class="loading-box"></div>
-    <div class="loading-pic">
-    
-        <div class="loader">
-            <span class="block-1"></span>
-            <span class="block-2"></span>
-            <span class="block-3"></span>
-            <span class="block-4"></span>
-            <span class="block-5"></span>
-            <span class="block-6"></span>
-            <span class="block-7"></span>
-            <span class="block-8"></span>
-            <span class="block-9"></span>
-            <span class="block-10"></span>
-            <span class="block-11"></span>
-            <span class="block-12"></span>
-            <span class="block-13"></span>
-            <span class="block-14"></span>
-            <span class="block-15"></span>
-            <span class="block-16"></span>
-        </div>
-    </div>
-</div> -->
+
 <!-- LOADING AREA  END ====== -->
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
