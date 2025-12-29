@@ -46,3 +46,11 @@
     border-bottom: none;
     padding-bottom: 20px;
 }
+
+.client-logo {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #ececec;
+    padding: 10px 10px;
+}

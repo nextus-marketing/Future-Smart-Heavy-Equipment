@@ -140,11 +140,10 @@
                              
                             <!-- MAIN Vav -->
                             <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
-                        
                                 <ul class=" nav navbar-nav">
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/about">About Us</a></li>                                    
-                                    <li><a href="/products">Products</a></li>
+                                    <li><a href="#0">Products</a></li>
                                     <li><a href="/blogs">Blogs</a></li>                                                                
                                     <li><a href="/contact">Contact Us</a></li>  
                                 </ul>
@@ -212,20 +211,19 @@
 
                             	<div class="col-lg-7 col-md-8">
                                     <div class="widget widget_services">
-                                        <h3 class="widget-title">Our Services</h3>
+                                        <h3 class="widget-title">Our Products</h3>
                                         <ul>
-                                            <li><a href="#0">Oil & Gas Factory</a><a href="#0">Chemical Research</a></li>
-                                            <li><a href="#0">Chemical Research</a><a href="#0">Agricultural</a></li>
-                                            <li><a href="#0">Mechanical</a><a href="#0">Agricultural </a></li>
-                                            <li><a href="#0">Manufacturing</a><a href="#0">Civil Engineering</a></li>
-                                            <li><a href="#0">Mechanical </a><a href="#0">Auto Motive  </a></li>
+                                            <li><a href="#0">Aerial Platforms</a><a href="#0">Compressors</a></li>
+                                            <li><a href="#0">Attachments</a><a href="#0">Container Stackers</a></li>
+                                            <li><a href="#0">Backhoe Loaders</a><a href="#0">Cranes </a></li>
+                                            <li><a href="#0">Boom Loader</a><a href="#0">Crushers</a></li>
+                                            <li><a href="#0">Compactors </a><a href="#0">Dozers  </a></li>
                                         </ul>
                                     </div>
                             	</div>                                
                             </div>
+                            
                         </div> 
-                    </br>
-                    </br>
                     </div>
                 </div>
             </div>
@@ -238,10 +236,9 @@
                     <ul class="copyrights-nav"> 
                         <li><a href="/terms-and-conditions">Terms  &amp; Condition</a></li>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
-                    </ul>    
-                     </br>
-                    </br>
+                    </ul>   
                 </div>
+                </br>
               </div>   
             </div>   
 

@@ -18,7 +18,7 @@
                             data-easein="default" 
                             data-easeout="default" 
                             data-masterspeed="default"  
-                            data-thumb="/frontend/my-img/slider-3.webp"  
+                            data-thumb="/frontend/my-img/slider.webp"  
                             data-rotate="0"  
                             data-fstransition="fade" 
                             data-fsmasterspeed="300" 
@@ -37,7 +37,7 @@
                             data-param10="" 
                             data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="/frontend/my-img/slider-3.webp"  alt=""  data-lazyload="/frontend/my-img/slider-3.webp" data-bgposition="center center" 
+                                <img src="/frontend/my-img/slider.webp"  alt=""  data-lazyload="/frontend/my-img/slider.webp" data-bgposition="center center" 
                                 data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 
@@ -699,95 +699,95 @@
 
             
             <!-- GALLERY SECTION START -->
-            <div class="section-full p-t80 p-b80 overlay-wraper  bg-cover" style="background-image:url(/frontend/images/background/bg-11.jpg)">
-            	<div class="overlay-main bg-black opacity-07"></div>
-                <div class="container">
-                    <!-- TITLE START-->
-                    <div class="section-head center wt-small-separator-outer text-white">
-                        <div class="wt-small-separator site-text-primary">
-                            <div class="sep-leaf-left"></div>
-                            <div>Latest Case Studies</div>
-                            <div class="sep-leaf-right"></div>
-                        </div>
-                        <h2>Featured Projects</h2>
-                    </div>
-                    <!-- TITLE END-->
-                </div> 
+            <div class="section-full p-t80 p-b80 overlay-wraper bg-cover" style="background-image:url(/frontend/images/background/bg-11.jpg)">
+    <div class="overlay-main bg-black opacity-07"></div>
+
+    <div class="container">
+        <!-- TITLE START-->
+        <div class="section-head center wt-small-separator-outer text-white">
+            <div class="wt-small-separator site-text-primary">
+                <div class="sep-leaf-left"></div>
+                <div>Our Project Highlights</div>
+                <div class="sep-leaf-right"></div>
+            </div>
+            <h2>Featured Equipment Deliveries</h2>
+        </div>
+        <!-- TITLE END-->
+    </div> 
                                        
-                <div class="section-content container-fluid"> 
-                
-                    <div class="owl-carousel gallery-slider owl-btn-vertical-center mfp-gallery">
-                    
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic1.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte m-b10 m-t0">Distribution</h3>
-                                    <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic2.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte m-b10 m-t0">Warehousing</h3>
-                                    <p>Committed to delivering high quality projects and innovate business.</p>
-                                    
-                                </div>
-                            </div>
-                        </div> 
-                        
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic3.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte  m-b10 m-t0">Optimization</h3>
-                                    <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic4.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte  m-b10 m-t0">Logistics</h3>
-                                    <p>Committed to delivering high quality projects and innovate business.</p>
-                                    
-                                </div>
-                            </div>
-                        </div> 
-                        
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic5.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte  m-b10 m-t0">Analystics</h3>
-                                    <p>High Performance Services For Multiple Insdustries And Technologies!</p>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="item">
-                            <div class="project-img-effect-1">
-                                <img src="/frontend/images/project_2/pic6.jpg" alt="" />
-                                <div class="wt-info">
-                                    <h3 class="wt-tilte  m-b10 m-t0">Storage</h3>
-                                    <p>Committed to delivering high quality projects and innovate business.</p>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        
+    <div class="section-content container-fluid"> 
+        <div class="owl-carousel gallery-slider owl-btn-vertical-center mfp-gallery">
+        
+            <!-- ITEM 1 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/excalvator.jpg" alt="Excavator Supply" style="width:308px; height:387px;"/>
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Excavator Supply</h3>
+                        <p>High-performance excavators delivered for large-scale construction projects.</p>
                     </div>
+                </div>
+            </div>
+            
+            <!-- ITEM 2 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/bulldozer.jpg" alt="Bulldozer Deployment" style="width:308px; height:387px;"/>
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Bulldozer Deployment</h3>
+                        <p>Reliable bulldozers supplied to support heavy earthwork and site preparation operations.</p>
+                    </div>
+                </div>
+            </div> 
+            
+            <!-- ITEM 3 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/crain.jpg" alt="Crane Installation" style="width:308px; height:387px;"/>
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Crane Installation</h3>
+                        <p>Lifting equipment supplied for industrial construction and infrastructure development.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- ITEM 4 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/road-roller.jpg" alt="Road Roller Projects" style="width:308px; height:387px;" />
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Road Roller Projects</h3>
+                        <p>Compaction machinery delivered for road construction and paving projects.</p>
+                    </div>
+                </div>
+            </div> 
+            
+            <!-- ITEM 5 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/my-img/backhoe.jpg" alt="Backhoe Loader Supply" style="width:308px; height:387px;"/>
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Backhoe Loader Supply</h3>
+                        <p>Versatile backhoe loaders supplied for urban and industrial construction works.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- ITEM 6 -->
+            <div class="item">
+                <div class="project-img-effect-1">
+                    <img src="/frontend/images/project_2/pic6.jpg" alt="Equipment Export" style="width:308px; height:387px;"/>
+                    <div class="wt-info">
+                        <h3 class="wt-tilte m-b10 m-t0">Global Equipment Export</h3>
+                        <p>International export of heavy machinery with secure handling and timely delivery.</p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
 
-                </div>                                        
-
-            </div>   
             <!-- GALLERY SECTION END -->            
        
             <!-- CLIENT LOGO SECTION START -->
