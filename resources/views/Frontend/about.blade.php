@@ -56,7 +56,6 @@
                                     </div>   
                                 </div>
                             </div>
-                            
                             <div class="col-lg-6 col-md-12 m-b30">
                             	<div class="img-colarge2">
                                 	<div class="colarge-2 slide-right"><img src="/frontend/my-img/8.jpg" alt=""></div>
@@ -64,7 +63,6 @@
                                     <div class="since-year-outer2"><div class="since-year2"><span>Since</span><strong>2015</strong></div></div>
                                 </div>
                             </div>                              
-
                         </div>
                     </div> 
                 </div>
