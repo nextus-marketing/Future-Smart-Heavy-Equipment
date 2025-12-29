@@ -143,7 +143,14 @@
                                 <ul class=" nav navbar-nav">
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/about">About Us</a></li>                                    
-                                    <li><a href="#0">Products</a></li>
+                                    <li><a href="#0">Products  <i class="fa fa-chevron-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="#0">Backhoe Loaders</a></li>                                        
+                                            <li><a href="#0">Boom Loader</a></li>
+                                            <li><a href="#0">Dozers</a></li>
+                                            <li><a href="#0">Cranes</a>
+                                        </ul>                                
+                                   </li>
                                     <li><a href="/blogs">Blogs</a></li>                                                                
                                     <li><a href="/contact">Contact Us</a></li>  
                                 </ul>
@@ -241,8 +248,6 @@
                 </br>
               </div>   
             </div>   
-
-
         </footer>
         <!-- FOOTER END -->
 

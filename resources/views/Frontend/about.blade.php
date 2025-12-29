@@ -52,7 +52,7 @@
                                     <p>We provide end-to-end heavy equipment trading solutions, offering new and used machines for construction, infrastructure, and industrial projects. Our focus is on delivering reliable, durable equipment with professional guidance to help your projects succeed worldwide.</p> 
                                     
                                     <div class="welcom-to-section-bottom d-flex justify-content-between">
-                                        <div class="welcom-btn-position"><a href="about-2.html" class="site-button-secondry site-btn-effect">Call Now</a></div>
+                                        <div class="welcom-btn-position"><a href="#0" class="site-button-secondry site-btn-effect">Call Now</a></div>
                                     </div>   
                                 </div>
                             </div>

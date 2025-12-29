@@ -54,3 +54,10 @@
     border: 1px solid #ececec;
     padding: 10px 10px;
 }
+
+/* Hide dropdown icon on mobile */
+@media (max-width: 767px) {
+    .fa-chevron-down {
+        display: none !important;
+    }
+}
