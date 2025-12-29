@@ -70,7 +70,7 @@
                                 id="slide-903-layer-3" 
                                 data-x="['left','left','center','center']" data-hoffset="[100','100','0','0']" 
                                 data-y="['top','top','top','top']" data-voffset="['260','250','200','200']"  
-                                data-fontsize="['120','72','72','38']"
+                                data-fontsize="['95','72','72','38']"
                                 data-lineheight="['100','66','66','38']"
                                 data-width="['800','600','96%','96%']"
                                 data-height="['none','none','none','none']"
@@ -129,7 +129,7 @@
                     </div>
                 </div>
          
-            </div>
+        </div>
             <!-- SLIDER END -->
 
             <div class="section-full bg-gray p-t90 p-b50">
