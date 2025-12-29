@@ -3,7 +3,7 @@
 @section('content')
 <div class="page-content">
            <!-- SLIDER START --> 
-           <div class="slider-outer">
+        <div class="slider-outer">
                
                 <div id="welcome_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="goodnews-header" data-source="gallery" style="background:#eeeeee;padding:0px;">
                     <div id="welcome" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.3.1">
@@ -192,74 +192,209 @@
                              
             <!-- WHAT WE DO SECTION START -->
             <div class="section-full p-t80 p-b50 bg-gray what-we-do-section2">
-            	
-                <div class="container">                      
-                    <div class="section-content what-we-do-content">
-                        <div class="row d-flex justify-content-center flex-wrap">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="whatWedo-media-section">
-                                    <div class="wt-media">
-                                        <img src="/frontend/images/what-we_2/pic1.jpg" alt="">
-                                    </div>
-                                    <div class="whatWedo-media-content text-white">
-                                    	<div class="whatWedo-media-inner">
-                                            <h3>Help transportation and logistics companies</h3>
-                                            <p>Representative logistics operator providing full range of service in the sphere of customs.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> 
-                                               
-                            <div class="col-lg-6 col-md-12 m-b40">
-                                <div class="whatWedo-info-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div  class="sep-leaf-left"></div>
-                                            <div>What We do</div>
-                                            <div  class="sep-leaf-right"></div>
-                                        </div>
-                                        <h2>Providing a Full Range of Heavy Equipment Solutions Worldwide</h2>
-                                        <p>We specialize in sourcing, trading, and supplying reliable heavy machinery for construction, infrastructure, mining, and industrial projects. Our focus is on quality equipment, transparent processes, and efficient delivery to meet project demands across global markets.</p>
-                                        
-                                    </div>
-                                    <!-- TITLE END-->
-                                    <div class="wt-icon-card-outer">
-  <div class="wt-icon-card bg-white shadow">
-    <div class="wt-card-header">
-      <i class="fa fa-cogs site-text-primary"></i>
-      <span class="title-style-2 site-text-secondry">Equipment Sourcing</span>
-    </div>
-    <div class="wt-card-content">
-      <p>We source quality heavy machinery that meets performance and budget requirements.</p>
-    </div>
-  </div>
+    <div class="container">
+        <div class="section-content what-we-do-content">
+            <div class="row d-flex justify-content-center flex-wrap">
 
-  <div class="wt-icon-card bg-white shadow">
-    <div class="wt-card-header">
-      <i class="fa fa-globe site-text-primary"></i>
-      <span class="title-style-2 site-text-secondry">Worldwide Trading</span>
+                <!-- LEFT IMAGE SECTION -->
+                <div class="col-lg-6 col-md-12 m-b30">
+                    <div class="whatWedo-media-section">
+                        <div class="wt-media">
+                            <img src="/frontend/images/what-we_2/pic1.jpg" alt="">
+                        </div>
+
+                        <div class="whatWedo-media-content text-white">
+                            <div class="whatWedo-media-inner">
+                                <h3>Help Transportation And Logistics Companies</h3>
+                                <p>
+                                    Representative logistics operator providing full range of service
+                                    in the sphere of customs.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- RIGHT CONTENT SECTION -->
+                <div class="col-lg-6 col-md-12 m-b40">
+                    <div class="whatWedo-info-section">
+
+                        <!-- TITLE -->
+                        <div class="left wt-small-separator-outer">
+                            <div class="wt-small-separator site-text-primary">
+                                <div class="sep-leaf-left"></div>
+                                <div>What We Do</div>
+                                <div class="sep-leaf-right"></div>
+                            </div>
+
+                            <h2>Providing A Full Range of Heavy Equipment Solutions Worldwide</h2>
+                            <p>
+                                We specialize in sourcing, trading, and supplying reliable heavy machinery
+                                for construction, infrastructure, mining, and industrial projects.
+                            </p>
+                        </div>
+
+                        <!-- ICON CARDS -->
+                        <div class="wt-icon-card-outer">
+
+                            <div class="wt-icon-card bg-white shadow">
+                                <div class="wt-card-header">
+                                    <i class="fa fa-cogs site-text-primary"></i>
+                                    <span class="title-style-2 site-text-secondry">
+                                        Equipment Sourcing
+                                    </span>
+                                </div>
+                                <div class="wt-card-content">
+                                    <p>
+                                        We source quality heavy machinery that meets performance and
+                                        budget requirements.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="wt-icon-card bg-white shadow">
+                                <div class="wt-card-header">
+                                    <i class="fa fa-globe site-text-primary"></i>
+                                    <span class="title-style-2 site-text-secondry">
+                                        Worldwide Trading
+                                    </span>
+                                </div>
+                                <div class="wt-card-content">
+                                    <p>
+                                        Supporting global buyers and sellers with reliable heavy
+                                        equipment trading services.
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div><!-- wt-icon-card-outer -->
+
+                    </div><!-- whatWedo-info-section -->
+                </div>
+
+            </div><!-- row -->
+        </div><!-- section-content -->
+    </div><!-- container -->
+</div><!-- section-full -->
+
+            <!-- WHAT WE DO SECTION END -->  
+              <!-- CLIENT LOGO SECTION START -->
+            <div class="section-full">
+    <div class="container">
+        <div class="section-content p-tb30">
+
+            <div class="brand-slider-wrapper">
+                <div class="brand-slider">
+
+                    <!-- ORIGINAL ITEMS -->
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/atlas.png" alt="Atlas">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/bobcat.png" alt="Bobcat">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/caterpillar.png" alt="Caterpillar">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/demag.png" alt="Demag">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/doosan.png" alt="Doosan">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/dynapac.png" alt="Dynapac">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/generac.png" alt="Generac">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/hyundai.png" alt="Hyundai">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/jcb.png" alt="JCB">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/jlg.png" alt="JLG">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/komatsu.png" alt="Komatsu">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/liebherr.png" alt="Liebherr">
+                    </div>
+
+                    <!-- DUPLICATED ITEMS (IMPORTANT FOR LOOP) -->
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/atlas.png" alt="Atlas">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/bobcat.png" alt="Bobcat">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/caterpillar.png" alt="Caterpillar">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/demag.png" alt="Demag">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/doosan.png" alt="Doosan">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/dynapac.png" alt="Dynapac">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/generac.png" alt="Generac">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/hyundai.png" alt="Hyundai">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/jcb.png" alt="JCB">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/jlg.png" alt="JLG">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/komatsu.png" alt="Komatsu">
+                    </div>
+
+                    <div class="item">
+                        <img src="/frontend/my-img/brands/liebherr.png" alt="Liebherr">
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
     </div>
-    <div class="wt-card-content">
-      <p>Supporting global buyers and sellers with reliable heavy equipment trading services.</p>
-    </div>
-  </div>
 </div>
 
-                                                                        
-                                </div>                        
-                            </div> 
-                        
-    
-                        </div>
-                    </div>                                        
-				</div>
-                
-            </div>   
-            <!-- WHAT WE DO SECTION END -->   
+            <!-- CLIENT LOGO  SECTION End -->           
   
              <!-- SERVICES SECTION START -->
-            <div class="section-full p-t80 overlay-wraper services-main-section bg-white">
+            <div class="section-full .p-t50 overlay-wraper services-main-section bg-white">
                                        
                 <div class="section-content services-section-content">
                 	<div class="row">
@@ -272,7 +407,7 @@
                                         <div>Services We Offer</div>
                                         <div  class="sep-leaf-right"></div>
                                     </div>
-                                    <h2>End-to-End Heavy Equipment Trading Services</h2>
+                                    <h2>End-To-End Heavy Equipment Trading Services</h2>
                                     <p>We manage the complete equipment trading process, ensuring reliable machines, competitive pricing, and smooth global transactions for demanding industrial projects.
                                     </p>
                                     <a href="#0" class="site-button site-btn-effect">Contact Us</a>
@@ -422,10 +557,9 @@
                                    
                                     <!-- TITLE START-->
                                     <div class="wt-small-separator-outer text-white">
-                                        <h2>Feel free to get in touch!</h2>
+                                        <h2 class="fix-size">Feel free to get in touch!</h2>
                                     </div>
-                                    <!-- TITLE END-->
-                                                                            
+                                    <!-- TITLE END-->                    
                                     <div class="row">
                                        <div class="col-md-6 col-sm-6">
                                             <div class="form-group">
@@ -460,7 +594,6 @@
                                        <div class="col-md-12">
                                             <button type="submit" class="site-button-secondry site-btn-effect">Send us a message</button>
                                         </div>
-                                        
                                     </div>
                                </form>                                        
                             </div>
@@ -471,136 +604,17 @@
                 
             </div>
             <!-- VISION SECTION END -->  
-                       
-            <!-- TESTIMONIAL SECTION START -->
-            <div class="section-full  p-t80 testimonial-1-outer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-12">
-                            <!-- TITLE START-->
-                            <div class="left wt-small-separator-outer">
-                                <div class="wt-small-separator site-text-primary">
-                                    <div  class="sep-leaf-left"></div>
-                                    <div>What our client say</div>
-                                    <div  class="sep-leaf-right"></div>
-                                </div>
-                                <h2>Happy WIth Customers & Clients</h2>
-                                <p>I feel very happy and be proud to connect with this industry. i presume this is a very productive and professional industry.i wish very good luck & success for this industry</p>
-                                <a href="#0" class="site-button site-btn-effect">Contact Us</a>
-                            </div>
-                            <!-- TITLE END-->                        
-                        </div>
-                        <div class="col-lg-8 col-md-12">
-                        	<div class="testimonial-1-content-outer">
-                                <div class="testimonial-1-content owl-carousel  owl-btn-top-right long-arrow-next-prev">
-                                    <div class="item">
-                                        <div class="testimonial-1 bg-white">
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="/frontend/images/testimonials/pic1.jpg" alt="">
-                                                    </div>
-                                                </div>                                            
-                                                <div class="testimonial-text">
-                                                    <i class="fa fa-quote-left"></i>
-                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
-                                                </div>
-                                                <div class="testimonial-detail clearfix">
-                                                    <div class="testimonial-info">
-                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                   <div class="item">
-                                        <div class="testimonial-1 bg-white">
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="/frontend/images/testimonials/pic1.jpg" alt="">
-                                                    </div>
-                                                </div>                                            
-                                                <div class="testimonial-text">
-                                                    <i class="fa fa-quote-left"></i>
-                                                    <p>Future Smart Heavy Equipment Trading provided us with high-quality excavators on time. Their service and support were excellent throughout the process.</p>
-                                                </div>
-                                                <div class="testimonial-detail clearfix">
-                                                    <div class="testimonial-info">
-                                                        <span class="testimonial-name title-style-2 site-text-secondry">Ahmed Al Mansoori</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Construction Manager</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="testimonial-1 bg-white">
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="/frontend/images/testimonials/pic2.jpg" alt="">
-                                                    </div>
-                                                </div>                                            
-                                                <div class="testimonial-text">
-                                                    <i class="fa fa-quote-left"></i>
-                                                    <p>We sourced a fleet of road rollers and bulldozers from them. The machines were in excellent condition and helped us complete our project ahead of schedule.</p>
-                                                </div>
-                                                <div class="testimonial-detail clearfix">
-                                                    <div class="testimonial-info">
-                                                        <span class="testimonial-name title-style-2 site-text-secondry">Fatima Al Zahri</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Project Engineer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item">
-                                        <div class="testimonial-1 bg-white">
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="/frontend/images/testimonials/pic3.jpg" alt="">
-                                                    </div>
-                                                </div>                                            
-                                                <div class="testimonial-text">
-                                                    <i class="fa fa-quote-left"></i>
-                                                    <p>Their team guided us in choosing the right heavy machinery for our mining project. Excellent consultation, quick response, and reliable delivery.</p>
-                                                </div>
-                                                <div class="testimonial-detail clearfix">
-                                                    <div class="testimonial-info">
-                                                        <span class="testimonial-name title-style-2 site-text-secondry">Mohammed Al Qasimi</span>
-                                                        <span class="testimonial-position title-style-2 site-text-primary">Operations Director</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                                                      
-                                </div>
-                            </div>                     
-                        </div>
-                   </div>
-				</div>
-                <div class="hilite-large-title title-style-2">
-                	<span>Client says</span>
-                </div>
-            </div>
-            <!-- TESTIMONIAL SECTION END -->   
+           
             
     <div class="section-full p-t80 p-b50 bg-white">
     <div class="container">
         <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div  class="sep-leaf-left"></div>
-                            <div>Top Equipment for Sale</div>
+                            <div>Top Equipment For Sale</div>
                             <div  class="sep-leaf-right"></div>
                         </div>
-                        <h2>Premium heavy equipment for sale</h2>
+                        <h2>Premium Heavy Equipment For Sale</h2>
                     </div>
 
         <!-- GALLERY CONTENT START -->
@@ -788,151 +802,130 @@
     </div>
 </div>
 
-            <!-- GALLERY SECTION END -->            
-       
-            <!-- CLIENT LOGO SECTION START -->
-            <div class="section-full bg-gray">
+            
+            <!-- TESTIMONIAL SECTION START -->
+            <div class="section-full  p-t80 testimonial-1-outer">
                 <div class="container">
-                    <div class="section-content">
-                    
-                        <!-- TESTIMONIAL 4 START ON BACKGROUND -->   
-                        <div class="section-content">
-                             <div class="section-content p-tb30 owl-btn-vertical-center">
-                                <div class="owl-carousel home-client-carousel-2">
-                                
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/atlas.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/bobcat.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/caterpillar.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/demag.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/doosan.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/dynapac.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/generac.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/hyundai.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/jcb.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/jlg.png" alt="" style="width:158px !important; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/kato.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/komatsu.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>  
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/liebherr.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/mercedes.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/mitsubishi.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/perkins.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/sany.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="item">
-                                        <div class="ow-client-logo">
-                                            <div class="client-logo client-logo-media">
-                                            <a href="#0"><img src="/frontend/my-img/brands/toyota.png" alt="" style="width:158px; height:120px;"></a></div>
-                                        </div>
-                                    </div>                                                                      
-                                    
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12">
+                            <!-- TITLE START-->
+                            <div class="left wt-small-separator-outer">
+                                <div class="wt-small-separator site-text-primary">
+                                    <div  class="sep-leaf-left"></div>
+                                    <div>What our client say</div>
+                                    <div  class="sep-leaf-right"></div>
                                 </div>
+                                <h2>Happy WIth Customers & Clients</h2>
+                                <p>I feel very happy and be proud to connect with this industry. i presume this is a very productive and professional industry.i wish very good luck & success for this industry</p>
+                                <a href="#0" class="site-button site-btn-effect">Contact Us</a>
                             </div>
+                            <!-- TITLE END-->                        
                         </div>
-                    </div>
+                        <div class="col-lg-8 col-md-12">
+                        	<div class="testimonial-1-content-outer">
+                                <div class="testimonial-1-content owl-carousel  owl-btn-top-right long-arrow-next-prev">
+                                    <div class="item">
+                                        <div class="testimonial-1 bg-white">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-pic-block"> 
+                                                    <div class="testimonial-pic">
+                                                        <img src="/frontend/images/testimonials/pic1.jpg" alt="">
+                                                    </div>
+                                                </div>                                            
+                                                <div class="testimonial-text">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
+                                                </div>
+                                                <div class="testimonial-detail clearfix">
+                                                    <div class="testimonial-info">
+                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                   <div class="item">
+                                        <div class="testimonial-1 bg-white">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-pic-block"> 
+                                                    <div class="testimonial-pic">
+                                                        <img src="/frontend/images/testimonials/pic1.jpg" alt="">
+                                                    </div>
+                                                </div>                                            
+                                                <div class="testimonial-text">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <p>Future Smart Heavy Equipment Trading provided us with high-quality excavators on time. Their service and support were excellent throughout the process.</p>
+                                                </div>
+                                                <div class="testimonial-detail clearfix">
+                                                    <div class="testimonial-info">
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Ahmed Al Mansoori</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Construction Manager</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="item">
+                                        <div class="testimonial-1 bg-white">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-pic-block"> 
+                                                    <div class="testimonial-pic">
+                                                        <img src="/frontend/images/testimonials/pic2.jpg" alt="">
+                                                    </div>
+                                                </div>                                            
+                                                <div class="testimonial-text">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <p>We sourced a fleet of road rollers and bulldozers from them. The machines were in excellent condition and helped us complete our project ahead of schedule.</p>
+                                                </div>
+                                                <div class="testimonial-detail clearfix">
+                                                    <div class="testimonial-info">
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Fatima Al Zahri</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Project Engineer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="item">
+                                        <div class="testimonial-1 bg-white">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-pic-block"> 
+                                                    <div class="testimonial-pic">
+                                                        <img src="/frontend/images/testimonials/pic3.jpg" alt="">
+                                                    </div>
+                                                </div>                                            
+                                                <div class="testimonial-text">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <p>Their team guided us in choosing the right heavy machinery for our mining project. Excellent consultation, quick response, and reliable delivery.</p>
+                                                </div>
+                                                <div class="testimonial-detail clearfix">
+                                                    <div class="testimonial-info">
+                                                        <span class="testimonial-name title-style-2 site-text-secondry">Mohammed Al Qasimi</span>
+                                                        <span class="testimonial-position title-style-2 site-text-primary">Operations Director</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                      
+                                </div>
+                            </div>                     
+                        </div>
+                   </div>
+				</div>
+                <div class="hilite-large-title title-style-2">
+                	<span>Client says</span>
                 </div>
             </div>
-            <!-- CLIENT LOGO  SECTION End -->                            
+            <!-- TESTIMONIAL SECTION END -->   
+
+            <!-- GALLERY SECTION END -->            
+       
+                             
         </div>
 
 

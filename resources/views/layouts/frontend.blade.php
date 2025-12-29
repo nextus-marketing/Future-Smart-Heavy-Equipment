@@ -357,6 +357,37 @@
  
  	</div> --}} 
 
+    <!-- Scroll To Top Button -->
+<button id="scrollTopBtn" title="Go to top">
+    <i class="fa fa-arrow-up"></i>
+</button>
+
+<!-- Floating Call Button -->
+<a href="tel:+919999999999" class="call-float" title="Call Now">
+    <i class="fa fa-phone"></i>
+</a>
+
+
+<script>
+    const scrollBtn = document.getElementById("scrollTopBtn");
+
+    window.addEventListener("scroll", () => {
+        if (window.pageYOffset > 300) {
+            scrollBtn.style.display = "flex";
+        } else {
+            scrollBtn.style.display = "none";
+        }
+    });
+
+    scrollBtn.addEventListener("click", () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    });
+</script>
+
+
 <!-- LOADING AREA START ===== -->
 
 <!-- LOADING AREA  END ====== -->

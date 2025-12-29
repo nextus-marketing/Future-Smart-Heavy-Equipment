@@ -37,11 +37,11 @@
                                     <div class="left wt-small-separator-outer">
                                         <div class="wt-small-separator site-text-primary">
                                             <div  class="sep-leaf-left"></div>
-                                            <div>Welcome to Future Smart Heavy Equipment Trading</div>
+                                            <div>Welcome To Future Smart Heavy Equipment Trading</div>
                                             <div  class="sep-leaf-right"></div>
                                         </div>
                                     </div>
-                                    <h2>We Are Here to Empower Your Projects with Reliable Machinery</h2>
+                                    <h2>We Are Here To Empower Your Projects With Reliable Machinery</h2>
                                     <!-- TITLE END-->
                                     <ul class="site-list-style-one">
                                     	<li>Quality Control System , 100% Satisfaction Guarantee</li>
@@ -81,7 +81,7 @@
                     <div>Our Heavy Equipment Services</div>
                     <div class="sep-leaf-right"></div>
                 </div>
-                <h2>High Performance Machinery Solutions for Global Projects</h2>
+                <h2>High Performance Machinery Solutions For Global Projects</h2>
             </div>
             <!-- TITLE END-->
 
