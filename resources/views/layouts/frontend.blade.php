@@ -4,21 +4,16 @@
 	<!-- META -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="robots" content="" />    
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"> 
+    <!-- PAGE TITLE HERE -->
+    <title>@yield('title')</title>
     <meta name="description" content="" />
-    
+    <link rel="canonical" href="{{ url()->current() }}" />  
+    <!-- MOBILE SPECIFIC -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- FAVICONS ICON -->
     <link rel="icon" href="https://thewebmax.org/industro//frontend/images/favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" type="image/x-icon" href="/frontend/images/favicon.png" />
-    
-    <!-- PAGE TITLE HERE -->
-    <title>@yield('title')</title>
-    
-    <!-- MOBILE SPECIFIC -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
     
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="/frontend/css/bootstrap.min.css">
@@ -42,9 +37,6 @@
     <!-- IMAGE POPUP -->
     <link rel="stylesheet" type="text/css" href="/frontend/css/lc_lightbox.css" />     
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-    <link rel="canonical" href="{{ url()->current() }}" />
-
-    
     <!-- THEME COLOR CHANGE STYLE SHEET -->
     <link rel="stylesheet" class="skin" type="text/css" href="/frontend/css/skin/skin-2.css">
     <!-- SIDE SWITCHER STYLE SHEET -->
@@ -111,7 +103,7 @@
                             <div class="logo-header">
                                 <div class="logo-header-inner logo-header-one">
                                     <a href="/">
-                                    <img src="/frontend/images/logo-white.png" alt="" />
+                                    <img src="/frontend/my-img/logo.png" alt="" />
                                     </a>
                                 </div>
                             </div>  
@@ -179,7 +171,7 @@
                         	<div class="footer-h-left"> 
                                 <div class="widget widget_about">
                                     <div class="logo-footer clearfix">
-                                        <a href="/"><img src="/frontend/images/logo-2-light.png" alt="" ></a>
+                                        <a href="/"><img src="/frontend/my-img/logo.png" alt="" style="max-width: 75%;"></a>
                                     </div>
                                     <p>Over 15 year experience and knowledge international standards technologicaly changes our industrial systems, we are dedicated to provides the best solutions to our valued customers there are many variation solution we makes long-term investments goal in global companies in different sectors, mainly in USA and other countries</p>
                                  </div>
@@ -272,7 +264,7 @@
                                          <h2 class="m-b30">Get In Touch</h2>
                                         <!-- TITLE END --> 
                                             <div class="row">
-                                               <div class="col-md-6 col-sm-6">
+                                                <div class="col-md-6 col-sm-6">
                                                     <div class="form-group">
                                                         <input name="username" type="text" required class="form-control" placeholder="Name">
                                                     </div>
@@ -293,19 +285,18 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <div class="form-group">
                                                          <input name="subject" type="text" class="form-control" required placeholder="Subject">
-                                                     </div>
+                                                    </div>
                                                 </div>
                                                 
                                                 <div class="col-md-12">
                                                     <div class="form-group">
                                                        <textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea>
-                                                     </div>
+                                                    </div>
                                                 </div>
                                                 
-                                               <div class="col-md-12">
+                                                <div class="col-md-12">
                                                     <button type="submit" class="site-button site-btn-effect">Submit Now</button>
                                                 </div>
-                                                
                                             </div>
                                     </div>
                                 </form>
@@ -344,8 +335,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                                                                                        
+                    </div>                                                                                        
                  </div>
             </div> 
         </div>     

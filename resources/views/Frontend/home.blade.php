@@ -546,7 +546,7 @@
                                     <div  class="sep-leaf-right"></div>
                                 </div>
                                 <h2>Serving Impressive List Of Long Term Clients!</h2>
-                                <p>Our worldwide presence ensures timeliness, cost efficiency and compliance adherence required to ensure your timelines are met. Serving with experience aNd expertise in multiple industries, as one of the World's leading Corporation! .</p>
+                                <p>Our worldwide presence ensures timeliness, cost efficiency and compliance adherence required to ensure your timelines are met. Serving with experience aNd expertise in multiple industries, as one of the World's leading Corporation!</p>
                             </div>
                             <!-- TITLE END-->                                                                               
                         </div>
