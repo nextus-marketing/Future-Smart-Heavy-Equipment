@@ -7,15 +7,11 @@
 @section('content')
 
 <div class="page-wraper"> 
-
-        
         <!-- CONTENT START -->
         <div class="page-content">
-        
             <!-- Error SECTION START -->
             <div class="error-full-page bg-cover overlay-wraper" style="background-image:url(/frontend/images/background/bg-3.jpg)">
-					<div class="overlay-main bg-black opacity-07"></div>
-                    
+				<div class="overlay-main bg-black opacity-07"></div>
                     <div class="error-full-page-inner">
                     	<div class="error-full-page-inner-info">
                             	<div class="error-media">
@@ -30,14 +26,10 @@
                                 </h4>
                                 <p>We’re sorry but we can’t seem to find the page you requested. This might be because you have typed the web address incorrectly.</p>
                                 <a href="/" class="site-button site-btn-effect">GO TO HOME</a>
-
                         </div>
                     </div>
-
-
-            </div>   
+                </div>   
             <!-- Error  SECTION END --> 
-            
         </div>
         <!-- CONTENT END -->
 
